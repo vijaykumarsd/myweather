@@ -1,2 +1,2 @@
 # myweather
-My Weather for Raspberry Pi with BMP180 / BMP085
+My Weather for Raspberry Pi Plugin/Module for Joomla 
